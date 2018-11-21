@@ -8,6 +8,10 @@ body {
   font-family: "Helvetica Neue",  BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
+.lead {
+  line-height: 1.5;
+}
+
 ::-moz-selection {
   background: #ca92ff;
 }
