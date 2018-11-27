@@ -24,10 +24,6 @@ h1, h2, h3, h4, h5 {
   color: #000;
 }
 
-header{
-  position: fixed;
-}
-
 .purple_letters{
   color: #9b30ff;
   font-weight: 350;
@@ -100,6 +96,21 @@ a:hover, a:active, a:focus {
 
 .social:hover > li:hover {
   opacity: 1;
+}
+
+ol, ul {
+    list-style-position: inside;
+    padding-left:0;
+}
+
+.indent{
+  padding-left: 3vw;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
 
 .templateux-navbar .container-fluid { max-width: 100%; }
