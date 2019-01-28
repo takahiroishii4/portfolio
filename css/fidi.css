@@ -1,0 +1,14 @@
+.project .project-hover{
+  background: #FF7E59F2;
+  /* F2 = 95% */
+  box-sizing: unset;
+}
+
+a{
+  color: #FF7E59;
+  box-sizing: unset;
+}
+
+.border{
+  border: 1px solid #dee2e6!important;
+}
