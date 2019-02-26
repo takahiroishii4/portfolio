@@ -47,8 +47,9 @@ a:hover, a:active, a:focus {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 35px 0;
+  padding: 20px 0px 0px 0px;
   z-index: 99999;
+  background-color: #FFFFFFB3;
 }
 
 /* social media icons for contact.html */
