@@ -170,7 +170,7 @@ ol, ul {
 
 .templateux-hero { background-size: cover; background-repeat: no-repeat; background-position: center center; position: relative; overflow: hidden; }
 
-.templateux-hero .lead { font-size: 28px; }
+.templateux-hero .lead { font-size: 22px; }
 
 @media (max-width: 991.98px) { .templateux-hero .lead { font-size: 20px; } }
 
