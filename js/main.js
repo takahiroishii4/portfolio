@@ -105,10 +105,4 @@ jQuery(document).ready(function($){
   	}
   })
 
-  // slideshow
-  $('.slider').bxSlider({
-      auto: true,
-      pause: 60000,
-  });
-
 });
