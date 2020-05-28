@@ -284,11 +284,15 @@ textarea.form-control { height: inherit; }
 
 .button-lightblue{ background-color: #00BFD6; }
 
+.button-trend-blue{ background-color: #33ABD6;}
+
 .button-orange:hover{ color: white;  text-decoration: none; color: #fff; -webkit-box-shadow: 0 20px 40px -5px rgba(255,126,89, 0.4); box-shadow: 0 20px 40px -5px rgba(255,126,89, 0.4);}
 
 .button-green:hover{ color: white;  text-decoration: none; color: #fff; -webkit-box-shadow: 0 20px 40px -5px rgba(31,179, 156, 0.4); box-shadow: 0 20px 40px -5px rgba(31, 179, 156, 0.4);}
 
 .button-lightblue:hover{ color: white;  text-decoration: none; color: #fff; -webkit-box-shadow: 0 20px 40px -5px rgba(0, 191, 214, 0.4); box-shadow: 0 20px 40px -5px rgba(0, 191, 214, 0.4); }
+
+.button-trend-blue:hover{ color: white;  text-decoration: none; color: #fff; -webkit-box-shadow: 0 20px 40px -5px rgba(0, 191, 214, 0.4); box-shadow: 0 20px 40px -5px rgba(0, 191, 214, 0.4); }
 
 .button.button-purple:hover { text-decoration: none; color: #fff; -webkit-box-shadow: 0 20px 40px -5px rgba(155,48,255, 0.4); box-shadow: 0 20px 40px -5px rgba(155,48,255, 0.4); background: #9b30ff; }
 
